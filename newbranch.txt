@@ -1,0 +1,3 @@
+created this file from newbranch2
+to create new branch in terminal of VS type -> git branch name of the branch
+example git branch newbranch
